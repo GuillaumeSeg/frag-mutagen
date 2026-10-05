@@ -9,8 +9,6 @@ Each tile in the grid follows its own timeline, progressing through five distinc
 From order to disorder, from structure to explosion.
 *We were ordered, and we become chaotic.*
 
-## Preview
-![grid-preview](captures/grid-aligned.png)
 
 ## Usage
 1. Open `shaders/main.frag` in VS Code.
