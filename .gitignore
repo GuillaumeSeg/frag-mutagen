@@ -1,0 +1,8 @@
+# Artefacts lourds / jetables
+*.webm
+*.mp4
+node_modules/
+.DS_Store
+
+# Captures temporaires de debug (garde seulement celles que tu séléctionnes)
+captures/tmp/

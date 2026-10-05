@@ -1,0 +1,9 @@
+{
+  "glsl-canvas.refreshOnSave": true,
+  "glsl-canvas.antialias": false,
+  "glsl-canvas.timeoutChangeDetection": 300,
+  "glsl-canvas.gui": true,
+  "files.associations": {
+    "*.frag": "glsl"
+  }
+}
